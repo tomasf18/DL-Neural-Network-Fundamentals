@@ -1,4 +1,4 @@
-# Deep Learning Homework 1: Neural Network Fundamentals
+# Deep Learning: Neural Network Fundamentals
 
 ### `Grade: 19.2/20`
 
